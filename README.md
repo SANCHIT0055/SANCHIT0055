@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋, I'M SANCHIT SHARMA</h1>
+<h1 align="center"><b>hey there 👋, I'M SANCHIT SHARMA<b></b></h1>
 
 ###
 
@@ -27,15 +27,15 @@
 
 ###
 
-<p align="center">FEEL FREE TO REACH OUT FOR ANY FREELANCE PROJECTS.</p>
+<p align="center"><b></b>FEEL FREE TO REACH OUT FOR ANY FREELANCE PROJECTS.<b></b></p>
 
 ###
 
-<h3 align="left">👩‍💻  About Me  :-</h3>
+<h3 align="left"><b></b>👩‍💻  About Me  :-<b></b></h3>
 
 ###
 
-<p align="center">👨‍💻 About Me<br>Hey there! I hail from India 🇮🇳, where I craft code and turn coffee into production-ready applications.<br><br>🔭 Currently: Working as an SDE at MEDIORYX, solving cool tech problems.<br><br>📚 Learning: AI | ML | LIFE | Anything that sparks curiosity.<br><br>⚡ Free Time: Deep-diving into research papers on Deep Learning like it's a treasure hunt.<br><br>📫 Reach Me: SANCHIT SHARMA – sharmasanchit31@gmail.com<br><br>🚀 Fun Facts & Chaos<br>I think I have a crush on me. No bugs, just self-love. 😆<br>If Python had a dating profile, I’d be its biggest match. 🐍💙<br>If I ever get lost, just print(“Where’s Sanchit?”), and I’ll appear. (Syntax guaranteed.)<br>The first version of Docker was built in just 24 hours! ⏳ (Respect to the legends.)<br>If only I could git reset --hard on awkward conversations… 😅<br>My brain refuses to process anything until caffeine runs its first pass. ☕💻<br>If you're still reading, why not follow me? Let’s connect! 🚀</p>
+<p align="center"><b>👨‍💻 About Me<b><br>Hey there! I hail from India 🇮🇳, where I craft code and turn coffee into production-ready applications.<br><br>🔭 Currently: Working as an SDE at MEDIORYX, solving cool tech problems.<br><br><b>📚 Learning:<b> AI | ML | LIFE | Anything that sparks curiosity.<br><br><b>⚡ Free Time:<b> Deep-diving into research papers on Deep Learning like it's a treasure hunt.<br><br><b>📫 Reach Me:<b> SANCHIT SHARMA – sharmasanchit31@gmail.com<br><br><b>🚀 Fun Facts & Chaos<b><br>I think I have a crush on me. No bugs, just self-love. 😆<br>If Python had a dating profile, I’d be its biggest match. 🐍💙<br>If I ever get lost, just print(“Where’s Sanchit?”), and I’ll appear. (Syntax guaranteed.)<br>The first version of Docker was built in just 24 hours! ⏳ (Respect to the legends.)<br>If only I could git reset --hard on awkward conversations… 😅<br>My brain refuses to process anything until caffeine runs its first pass. ☕💻<br>If you're still reading, why not follow me? Let’s connect! 🚀</p>
 
 ###
 
