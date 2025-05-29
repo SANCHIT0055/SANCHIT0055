@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Sanchit is a highly skilled and passionate software developer from India 🇮🇳 with over two years of professional experience in building robust, production-ready applications.<br> Adept at both onsite and remote collaboration, he brings innovation, efficiency, and technical expertise to every project he undertakes. <br>With a strong commitment to excellence, he thrives in dynamic environments, delivering scalable solutions that drive business success and enhance user experiences.</p>
+<p align="left">**Sanchit is a highly skilled and passionate software developer from India 🇮🇳 with over two years of professional experience in building robust, production-ready applications.<br> Adept at both onsite and remote collaboration, he brings innovation, efficiency, and technical expertise to every project he undertakes. <br>With a strong commitment to excellence, he thrives in dynamic environments, delivering scalable solutions that drive business success and enhance user experiences.**</p>
 
 ###
 
