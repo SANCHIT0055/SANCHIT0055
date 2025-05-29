@@ -35,7 +35,7 @@
 
 ###
 
-<p align="center"><b>👨‍💻 About Me</b><br>Hey there! I hail from India 🇮🇳, where I craft code and turn coffee into production-ready applications.<br>  
+<p align="center"><b>👨‍💻 </b><br>Hey there! I hail from India 🇮🇳, where I craft code and turn coffee into production-ready applications.<br>  
 <b>🔭 Currently:</b> Working as an SDE at MEDIORYX, solving cool tech problems.<br>  
 <b>📚 Learning:</b> AI | ML | LIFE | Anything that sparks curiosity.<br>  
 <b>⚡ Free Time:</b> Deep-diving into research papers on Deep Learning like it's a treasure hunt.<br>  
