@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center"><b>hey there 👋, I'M SANCHIT SHARMA<b></b></h1>
+<h1 align="center"><b>HEY THERE 👋, I'M SANCHIT SHARMA<b></b></h1>
 
 ###
 
@@ -42,7 +42,7 @@
 <b>📫 Reach Me:</b> SANCHIT SHARMA – sharmasanchit31@gmail.com.<br>  
 
 <b>🚀 Fun Facts & Chaos</b><br>  
-★ I think I have a crush on me. No bugs, just self-love. 😆<br>  
+<p align="center">★ I think I have a crush on me. No bugs, just self-love. 😆<br>  
 ★ If Python had a dating profile, I’d be its biggest match. 🐍💙<br>  
 ★ If I ever get lost, just print(“Where’s Sanchit?”), and I’ll appear. (Syntax guaranteed.)<br>  
 ★ The first version of Docker was built in just 24 hours! ⏳ (Respect to the legends.)<br>  
