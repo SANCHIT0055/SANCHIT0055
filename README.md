@@ -41,7 +41,7 @@
 <b>⚡ Free Time:</b> Deep-diving into research papers on Deep Learning like it's a treasure hunt.<br>  
 <b>📫 Reach Me:</b> SANCHIT SHARMA – sharmasanchit31@gmail.com.<br>  
 
-<b>🚀 Fun Facts & Chaos</b><br>  
+<b>🚀 Fun Facts & Chaos :-</b><br>  
 <p align="center">★ I think I have a crush on me. No bugs, just self-love. 😆<br>  
 ★ If Python had a dating profile, I’d be its biggest match. 🐍💙<br>  
 ★ If I ever get lost, just print(“Where’s Sanchit?”), and I’ll appear. (Syntax guaranteed.)<br>  
