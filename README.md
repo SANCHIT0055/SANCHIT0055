@@ -35,21 +35,21 @@
 
 ###
 
-<p align="center"><b>👨‍💻 About Me</b><br>Hey there! I hail from India 🇮🇳, where I craft code and turn coffee into production-ready applications.<br><br>  
-<b>🔭 Currently:</b> Working as an SDE at MEDIORYX, solving cool tech problems.<br><br>  
-<b>📚 Learning:</b> AI | ML | LIFE | Anything that sparks curiosity.<br><br>  
-<b>⚡ Free Time:</b> Deep-diving into research papers on Deep Learning like it's a treasure hunt.<br><br>  
-<b>📫 Reach Me:</b> SANCHIT SHARMA – sharmasanchit31@gmail.com.<br><br>  
+<p align="center"><b>👨‍💻 About Me</b><br>Hey there! I hail from India 🇮🇳, where I craft code and turn coffee into production-ready applications.<br>  
+<b>🔭 Currently:</b> Working as an SDE at MEDIORYX, solving cool tech problems.<br>  
+<b>📚 Learning:</b> AI | ML | LIFE | Anything that sparks curiosity.<br>  
+<b>⚡ Free Time:</b> Deep-diving into research papers on Deep Learning like it's a treasure hunt.<br>  
+<b>📫 Reach Me:</b> SANCHIT SHARMA – sharmasanchit31@gmail.com.<br>  
 
 <b>🚀 Fun Facts & Chaos</b><br>  
-• I think I have a crush on me. No bugs, just self-love. 😆<br><br>  
-• If Python had a dating profile, I’d be its biggest match. 🐍💙<br><br>  
-• If I ever get lost, just print(“Where’s Sanchit?”), and I’ll appear. (Syntax guaranteed.)<br><br>  
-• The first version of Docker was built in just 24 hours! ⏳ (Respect to the legends.)<br><br>  
-• If only I could git reset --hard on awkward conversations… 😅<br><br>  
-• My brain refuses to process anything until caffeine runs its first pass. ☕💻<br><br>  
-• If you're still reading, why not follow me? Let’s connect! 🚀<br>  
-</p>
+★ I think I have a crush on me. No bugs, just self-love. 😆<br>  
+★ If Python had a dating profile, I’d be its biggest match. 🐍💙<br>  
+★ If I ever get lost, just print(“Where’s Sanchit?”), and I’ll appear. (Syntax guaranteed.)<br>  
+★ The first version of Docker was built in just 24 hours! ⏳ (Respect to the legends.)<br>  
+★ If only I could git reset --hard on awkward conversations… 😅<br>  
+★ My brain refuses to process anything until caffeine runs its first pass. ☕💻<br>  
+★ If you're still reading, why not follow me? Let’s connect! 🚀</p>
+
 
 ###
 
