@@ -82,12 +82,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://drive.google.com/file/d/1VN7-kFxWa3K3aRs6qbIdzdv2qIp1VR0C/view?usp=sharing"  />
-</div>
-
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -97,7 +91,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://www.bing.com/images/search?view=detailV2&ccid=hySSB35%2f&id=CD436A0D7F16C6B7A77D362D284729CFEA100CD5&thid=OIP.hySSB35_ZI2jua2kyOoGtgAAAA&mediaurl=https%3a%2f%2fmedia.tenor.com%2fn2phw_K-XuYAAAAM%2fhomer-simpsons.gif&exph=165&expw=220&q=OK+SEE+YA+funny+gif&simid=607995580139847123&FORM=IRPRST&ck=258CB4F216AE1B9BB2AD62617285FEB4&selectedIndex=0&itb=0"  />
+  <img height="200" src="https://c.tenor.com/SsK8Z3td5uYAAAAd/tenor.gif"  />
 </div>
 
 ###
