@@ -101,7 +101,7 @@
 
 ###
 
-<p align="left">THANKS!! FOR VISITING MY PROFILE, SEE YOU SOON!!!</p>
+<p align="CENTER">THANKS!! FOR VISITING MY PROFILE, SEE YOU SOON!!!</p>
 
 ###
 
