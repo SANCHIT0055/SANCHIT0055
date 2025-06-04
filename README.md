@@ -73,7 +73,7 @@
 <h3 align="center"><b>✨ Fun Facts</b></h3>
 
 <p align="center">
-  🌟 I think I have a crush on me. No bugs, just self-love. 😆<br>
+  
   🌟 If Python had a dating profile, I’d be its biggest match. 🐍💙<br>
   🌟 If I ever get lost, just <code>print("Where’s Sanchit?")</code> and I’ll appear.😎<br>
   🌟 If only I could <code>git reset --hard</code> on awkward conversations… 😅<br>
