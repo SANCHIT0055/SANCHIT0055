@@ -73,7 +73,6 @@
 <h3 align="center"><b>✨ Fun Facts</b></h3>
 
 <p align="center">
-  
   🌟 If I ever get lost, just <code>print("Where’s Sanchit?")</code> and I’ll appear.😎<br>
   🌟 If only I could <code>git reset --hard</code> on awkward conversations… 😅<br>
   🌟 <code>git commit -m "Fixed my sleep schedule"</code> (lies)<BR>
