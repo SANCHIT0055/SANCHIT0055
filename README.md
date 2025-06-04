@@ -78,7 +78,7 @@
   🌟 <code>git commit -m "Fixed my sleep schedule"</code> (lies)<BR>
   🌟 Docker fanboy – yes, I know it was built in 24 hours 🐳 ⏳<br>
   
-  <h3 align="RIGHT"><b>🌟 If you're still reading... we're basically friends now. 🤝</b></h3>
+  <h3 align="CENTER"><b>🌟 If you're still reading... we're basically friends now. 🤝</b></h3>
 
 </p>
 
