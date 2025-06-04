@@ -77,7 +77,7 @@
   🌟 If only I could <code>git reset --hard</code> on awkward conversations… 😅<br>
   🌟 <code>git commit -m "Fixed my sleep schedule"</code> (lies)<BR>
   🌟 Docker fanboy – yes, I know it was built in 24 hours 🐳 ⏳<br>
-  🌟 My brain refuses to boot until caffeine initializes. ☕💻<br>
+  
   🌟 If you're still reading... we're basically friends now. 🤝
 </p>
 
