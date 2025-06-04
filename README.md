@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  <b>A passionate and creative software developer from India 🇮🇳 with 2+ years of experience in building scalable, impactful, and production-ready applications.</b><br>
+  <b>A passionate and creative software developer from India 🇮🇳 (INDIA) with 2+ years of experience in building scalable, impactful, and production-ready applications.</b><br>
   <b>I believe in writing clean code, solving meaningful problems, and always staying curious.</b>
 </p>
 
